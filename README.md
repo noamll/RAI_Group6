@@ -21,24 +21,24 @@ We did not use Git during the writing of this project. Therefore, we sadly canno
 Lydia
 - Loading the initial dataset
 - Preliminary results
-Writing: Methods, Conclusion and Discussion
+- Writing: Methods, Conclusion and Discussion
 
 Linda
 - Preliminary results
 - Train-test-split
 - Evaluation functions
-Writing: Abstract, Experiments and Results
+- Writing: Abstract, Experiments and Results
 
 Noa
 - Feature selection
 - SHAP
 - LIME
 - Epistoric Uncertainty (with Daniël)
-Writing: Introduction and LaTeX formatting
+- Writing: Introduction and LaTeX formatting
 
 Daniël
 - Normality analysis
 - Linearity analysis
 - Cross-validation
 - Epistoric Uncertainty (with Noa)
-Writing: Outline and Proofreading
+- Writing: Outline and Proofreading
